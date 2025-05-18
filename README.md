@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">🧪 IBSP-Labs</h1>
-  <i>Engenharia Modular. Ambientes Extremos.</i>
+
 </p>
 
 <p align="center">
